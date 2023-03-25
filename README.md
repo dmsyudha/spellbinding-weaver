@@ -2,8 +2,14 @@
 
 This Raycast extension utilizes the OpenAI ChatGPT language model to generate human-like text based on user input. The extension allows users to send prompts to the ChatGPT model and receive a response. The response is automatically copied to the clipboard, allowing users to easily paste it into other applications.
 
+
+
 ### Overview
 The Spellbinding Weaver provides a seamless integration of the OpenAI ChatGPT language model into the Raycast environment. Users can quickly receive context-aware text completions for their prompts and use the generated text in other applications.
+
+
+https://user-images.githubusercontent.com/10308616/227696395-219820ac-ef78-4d5b-8cb7-f4cca5015250.mov
+
 
 ### Features
 - Send prompts to the ChatGPT model
@@ -13,8 +19,10 @@ The Spellbinding Weaver provides a seamless integration of the OpenAI ChatGPT la
 - Extension preferences to modify settings
 
 ### Installation
-1. Clone or download the repository
-2. Add the extension to Raycast using the Extensions preferences
+1. Install Raycast
+2. Clone or download the repository
+3. Go to folder, `npm i && npm run dev` 
+4. Open raycast, find "Write Command"
 3. Configure your OpenAI API key, model, and other preferences in the extension settings
 
 ### Usage
